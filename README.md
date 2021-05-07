@@ -1,2 +1,6 @@
 # eGolf-aeromod
-Front grille blocker for the Volkswagen eGolf
+3d-printable front grille blocker for the Volkswagen eGolf. Used for reducing consumption at high speeds.
+
+## How to
+Start by printing 4x pieces of each A/B/C/D/E/F part. Install the parts according to this order.
+![alt text](https://github.com/dalathegreat/eGolf-aeromod/blob/main/WhichPiecesToPrint.png)
